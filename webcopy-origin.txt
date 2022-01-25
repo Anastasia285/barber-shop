@@ -1,0 +1,188 @@
+Uri: http://a.ko.0.1.tilda.ws/barber-shop
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\barber-shop.html
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/tild3961-6564-4238-b134-326264343038/-/resize/20x/c9e1e6f06c89353d00b0.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3961-6564-4238-b134-326264343038\-\resize\20x\c9e1e6f06c89353d00b0.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3166-3263-4637-a435-363230393234/-/resize/20x/000d7a5333f2bab4cc36.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3166-3263-4637-a435-363230393234\-\resize\20x\000d7a5333f2bab4cc36.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3839-6131-4735-b966-306430396133/-/resize/20x/d1aca6e2e60ee3ef0c69.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3839-6131-4735-b966-306430396133\-\resize\20x\d1aca6e2e60ee3ef0c69.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3936-6434-4365-b439-386230303937/-/resize/20x/4d7bf824e74ae305d385.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3936-6434-4365-b439-386230303937\-\resize\20x\4d7bf824e74ae305d385.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3834-6639-4133-b539-613963383561/-/resize/20x/3f00657c01ac3bb77220.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3834-6639-4133-b539-613963383561\-\resize\20x\3f00657c01ac3bb77220.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3064-3730-4137-b433-323537623831/-/resize/20x/94c914f4c11e67803d7d.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3064-3730-4137-b433-323537623831\-\resize\20x\94c914f4c11e67803d7d.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3537-6337-4161-a466-363764306662/-/resize/20x/d4e32f6e910912f0af20.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3537-6337-4161-a466-363764306662\-\resize\20x\d4e32f6e910912f0af20.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3637-6634-4634-a361-376162306261/-/resize/20x/825eaafab1db094b73fa.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3637-6634-4634-a361-376162306261\-\resize\20x\825eaafab1db094b73fa.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3665-6464-4932-a130-636162323663/-/resize/20x/907feff3d050a0bf3243.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3665-6464-4932-a130-636162323663\-\resize\20x\907feff3d050a0bf3243.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6365-3633-4335-b738-353532306233/-/resize/20x/0b1dc78701cef8aaba55.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild6365-3633-4335-b738-353532306233\-\resize\20x\0b1dc78701cef8aaba55.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3837-3963-4237-b636-333266653566/-/resize/20x/8bbe17afd44c5997adca.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3837-3963-4237-b636-333266653566\-\resize\20x\8bbe17afd44c5997adca.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3632-3134-4334-b263-646463326237/-/resizeb/20x/1.jpg
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3632-3134-4334-b263-646463326237\-\resizeb\20x\1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3766-3436-4163-b638-626432616233/-/resizeb/20x/2.jpg
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3766-3436-4163-b638-626432616233\-\resizeb\20x\2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3864-3064-4031-b532-633339336137/-/resize/20x/2353c80f9bd7f3fc6c5e.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3864-3064-4031-b532-633339336137\-\resize\20x\2353c80f9bd7f3fc6c5e.png
+Content Type: image/png
+
+Uri: https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4b62/4075/138743828f939ad3e51216e54036e98e
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\figma-alpha-api\img\4b62\4075\138743828f939ad3e51216e54036e98e.png
+Content Type: image/png
+
+Uri: https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8ab6/ce2f/1ee41b699ab3333c47ee1e5a8e339a71
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\figma-alpha-api\img\8ab6\ce2f\1ee41b699ab3333c47ee1e5a8e339a71.png
+Content Type: image/png
+
+Uri: https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/26f2/64d0/135a601b5409f8990b11cafd30ff5538
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\figma-alpha-api\img\26f2\64d0\135a601b5409f8990b11cafd30ff5538.png
+Content Type: image/png
+
+Uri: https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7d45/0f72/154dfb1def17b4f322f71206104cf68a
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\figma-alpha-api\img\7d45\0f72\154dfb1def17b4f322f71206104cf68a.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3333-6263-4332-b164-346565373236/-/resize/20x/55610802fe73d85aafa7.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3333-6263-4332-b164-346565373236\-\resize\20x\55610802fe73d85aafa7.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3731-3165-4532-a264-643462313562/-/resize/20x/138743828f939ad3e512.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3731-3165-4532-a264-643462313562\-\resize\20x\138743828f939ad3e512.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3330-6532-4939-a563-623435363264/-/resize/20x/1ee41b699ab3333c47ee.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3330-6532-4939-a563-623435363264\-\resize\20x\1ee41b699ab3333c47ee.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3831-6661-4135-a161-393735333336/-/resize/20x/135a601b5409f8990b11.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3831-6661-4135-a161-393735333336\-\resize\20x\135a601b5409f8990b11.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3562-6534-4638-a334-643237316264/-/resize/20x/154dfb1def17b4f322f7.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3562-6534-4638-a334-643237316264\-\resize\20x\154dfb1def17b4f322f7.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/img/tildafavicon.ico
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: http://a.ko.0.1.tilda.ws/tilda-blocks-2.14.css?t=1643138463
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tilda-blocks-2.14.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-1.0.min.css
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-menusub-1.0.min.css
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\css\tilda-menusub-1.0.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Rubik:wght@300;700&display=swap
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\css2.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: http://a.ko.0.1.tilda.ws/tilda-blocks-2.7.js?t=1643138463
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tilda-blocks-2.7.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-1.0.min.js
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menusub-1.0.min.js
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\js\tilda-menusub-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3431-6430-4336-a466-386632613639/image.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\tild3431-6430-4336-a466-386632613639\image.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/img/tildacopy.png
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://tilda.cc/ua/
+File Name: C:\Users\User\Downloads\a.ko.0.1.tilda.ws\ua\index.htm
+Content Type: text/html
+
